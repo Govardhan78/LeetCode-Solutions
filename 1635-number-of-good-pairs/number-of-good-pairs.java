@@ -8,7 +8,6 @@ class Solution {
                 if (nums[i] == nums[j]) {
                     if(i<j){
                     count++;
-                    // i++;
                     }
                 }
             }
